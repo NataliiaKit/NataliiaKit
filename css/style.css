@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #eddce4;
+}
+
+.container-fluid {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.header {
+    width: 100%;
+    height: 800px;
+    background: url(../img/landing.jpg) no-repeat center top;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: gray;  
+    padding-top: 380px;
+    padding-left: 50px;
+    letter-spacing: 0.1em;
+}
+
+.btn-secondary {
+    margin-top: 35px;
+    margin-left: 50px;
+    font-size: 20px;
+}
